@@ -37,7 +37,7 @@ INSTALAÇÃO
 Instruções para Instalação do Jogo da Velha
 Para instalar e executar o jogo da velha, siga os passos abaixo:
 
-Baixe o Repositório: Faça o download da pasta disponível no link.
+Baixe o Repositório: Faça o download da pasta disponível no link (https://github.com/GabrielClodes/jogodavelha/blob/3e3732671e7497d77ac434e6b059276493d540c2/jogodavelha.zip).
 
 Upload no Ambiente Virtual: Após o download, faça o upload da pasta para o seu ambiente de desenvolvimento preferido, como VSCode, Jupyter Notebook, PyCharm ou Google Colab.
 
